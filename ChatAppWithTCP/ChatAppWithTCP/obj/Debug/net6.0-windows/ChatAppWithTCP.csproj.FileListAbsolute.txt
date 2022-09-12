@@ -1,0 +1,17 @@
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\bin\Debug\net6.0-windows\ChatAppWithTCP.exe
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\bin\Debug\net6.0-windows\ChatAppWithTCP.deps.json
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\bin\Debug\net6.0-windows\ChatAppWithTCP.runtimeconfig.json
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\bin\Debug\net6.0-windows\ChatAppWithTCP.dll
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\bin\Debug\net6.0-windows\ChatAppWithTCP.pdb
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.csproj.AssemblyReference.cache
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.csproj.GenerateResource.cache
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.AssemblyInfoInputs.cache
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.AssemblyInfo.cs
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.csproj.CoreCompileInputs.cache
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.dll
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\refint\ChatAppWithTCP.dll
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.pdb
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.genruntimeconfig.cache
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ref\ChatAppWithTCP.dll
+F:\Berat\NesneTabanlıProgramlama\ChatAppWithTCP\ChatAppWithTCP\obj\Debug\net6.0-windows\ChatAppWithTCP.Server.resources
