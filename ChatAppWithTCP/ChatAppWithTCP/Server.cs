@@ -21,6 +21,7 @@ namespace ChatAppWithTCP
         public StreamWriter STW;
         public string recieve;
         public string TextToSend;
+		
         public Server()
         {
             InitializeComponent();
