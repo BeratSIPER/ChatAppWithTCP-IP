@@ -41,7 +41,7 @@ namespace ChatAppWithTCP
             TcpListener listener = new TcpListener(IPAddress.Any, int.Parse(ServerPorttextBox.Text));
             listener.Start();
             client = listener.AcceptTcpClient();
-            //ChatScreentextBox.AppendText($"Started to Server \r\n");
+            ChatScreentextBox.AppendText($"Started to Server \r\n");
             STR = new StreamReader(client.GetStream());
             STW = new StreamWriter(client.GetStream());
             STW.AutoFlush = true;
